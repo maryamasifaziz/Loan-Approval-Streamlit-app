@@ -108,4 +108,4 @@ streamlit run loan.py
 ## 👤 Author
 **Maryam Asif**  
 🎓 FAST NUCES  
-🔗 [LinkedIn](https://linkedin.com/maryamasifaziz) | [GitHub](https://github.com/maryamasifaziz)
+🔗 [LinkedIn](https://www.linkedin.com/in/maryamasifaziz) | [GitHub](https://github.com/maryamasifaziz)
