@@ -82,7 +82,7 @@ def train_model(df:pd.DataFrame):
 
 st.sidebar.header("1. Load Dataset")
 csvpath = st.sidebar.text_input("Enter CSV file path", 
-                                value = "loan_data.csv", 
+                                value = "loan_dataset.csv", 
                                 help="Path to the CSV file containing loan data")
 
 # Try Loading the Data
